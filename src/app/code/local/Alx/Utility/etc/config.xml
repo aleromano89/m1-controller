@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <config>
+     <modules>
+        <Alx_Utility>
+          <version>0.1.0</version>
+        </Alx_Utility>
+     </modules>
+     <frontend>
+       <routers>
+          <execute>
+              <use>standard</use>
+              <args>
+                 <module>Alx_Utility</module>
+                 <frontName>execute</frontName>
+              </args>
+           </execute>
+       </routers>
+    </frontend>
+</config>

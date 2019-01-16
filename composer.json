@@ -1,0 +1,15 @@
+{
+    "name": "aleromano89/m1-controller",
+    "description": "Empty controller for magento 1.9",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aleromano89",
+            "email": "alx.romano89@gmail.com"
+        }
+    ]
+}
